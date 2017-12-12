@@ -4,3 +4,4 @@ Farine
 Sucre
 Rhum
 Orange
+Patates
